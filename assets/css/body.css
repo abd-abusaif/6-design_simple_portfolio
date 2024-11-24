@@ -1,0 +1,41 @@
+
+
+.body {
+    background-color: #20C997;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.container {
+    background-color:#20C997;
+    top:30px;
+    width:800px;
+    height:590px;
+    display:flex;
+    gap:65px;
+    align-items:center;
+    flex-direction:column;
+}
+
+.divider1 {
+    width:25%;
+    border:1px solid white;
+}
+
+.container img {
+    width:100%;
+    margin-top:10px;
+}
+.container h1 {
+    font-size:60px;
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container p {
+    font-size:30px;
+    color:white;
+    margin-bottom:10px;
+}
+
+
